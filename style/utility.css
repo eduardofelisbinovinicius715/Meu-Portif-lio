@@ -1,0 +1,12 @@
+.red{color:red;}
+
+.seta{
+       object-fit: contain;
+    transition: filter 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.seta img:hover {
+    filter: hue-rotate(180deg) saturate(2);
+    transform: translateY(-3px);
+}
