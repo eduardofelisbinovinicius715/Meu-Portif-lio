@@ -1,4 +1,5 @@
-.red{color:red;}
+.red{color:red;
+}
 
 .seta{
        object-fit: contain;
@@ -10,3 +11,4 @@
     filter: hue-rotate(180deg) saturate(2);
     transform: translateY(-3px);
 }
+
