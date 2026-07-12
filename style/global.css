@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
     
 }
 body{ background-color: black;
@@ -34,4 +34,19 @@ justify-self: center;
  background-color: rgba(17, 11, 11, 0.541);
  border-radius: 8px;
 
+}
+p{
+    gap: 32px;
+}
+
+/* Espaçamento global de texto: pequeno e estético */
+body {
+    line-height: 1.6; /* melhora legibilidade */
+    letter-spacing: 0.02em; /* pequeno espaçamento entre letras */
+    word-spacing: 0.04em; /* leve espaçamento entre palavras */
+}
+
+/* Ajuste sutil para títulos */
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 0.01em;
 }
