@@ -32,7 +32,7 @@ Uma descrição um pouco mais detalhada aqui. Explique o problema que seu projet
 ## ⚙️ Funcionalidades
 
 - Sua funcionalidade é apresentar os meus trabalhos.
-- [ ] remodelação total após aprender javascript.
+-  remodelação total após aprender javascript.
 
 ---
 
