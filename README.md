@@ -1,6 +1,6 @@
-# 🚀 Nome do Seu Projeto
+# 🚀 Meu portifólio
 
-> Uma frase curta e de impacto que explica exatamente o que o seu projeto faz.
+> Um pouco sobre meus projetos.
 
 ---
 
@@ -41,7 +41,7 @@ Uma descrição um pouco mais detalhada aqui. Explique o problema que seu projet
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina:
 * **[Git](https://git-scm.com)**
-* **[Tecnologia X - :VsCode/Gitbash]**
+* **[Tecnologia X - :VsCode  Gitbash]**
 
 ### Passo a Passo
 
@@ -52,6 +52,7 @@ $ git clone [https://github.com/eduardofelisbinovinicius715/Meu-Portif-lio)
 # 2. Acesse a pasta do projeto
 $ cd seu-repositorio
 
+
 # 3. Instale as dependências
 $ npm install # ou o comando da sua tecnologia
 
@@ -61,7 +62,8 @@ $ npm start
 
 
 👤 Autor
-Feito com ☕ por ViníciusEduardo Felisbino!
+Feito com VSCODE
+por ViníciusEduardo Felisbino!
  GitHub: @seduardofelisbinovinicius715
  LinkedIn: vinicius Eduardo felisbino
  E-mail: eduardofelisbinovinicius@gmail.com
