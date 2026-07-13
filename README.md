@@ -31,9 +31,8 @@ Uma descrição um pouco mais detalhada aqui. Explique o problema que seu projet
 
 ## ⚙️ Funcionalidades
 
-- [x] Funcionalidade incrível 1
-- [x] Funcionalidade incrível 2
-- [ ] Algo que você ainda vai implementar (opcional)
+- Sua funcionalidade é apresentar os meus trabalhos.
+- [ ] remodelação total após aprender javascript.
 
 ---
 
@@ -58,3 +57,11 @@ $ npm install # ou o comando da sua tecnologia
 
 # 4. Execute a aplicação
 $ npm start
+
+
+
+👤 Autor
+Feito com ☕ por ViníciusEduardo Felisbino!
+ GitHub: @seduardofelisbinovinicius715
+ LinkedIn: vinicius Eduardo felisbino
+ E-mail: eduardofelisbinovinicius@gmail.com
